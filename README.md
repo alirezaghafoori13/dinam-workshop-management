@@ -62,7 +62,7 @@ The trial period is 30 days. Download only from the official Releases page and r
 
 ## Installation
 
-Installation steps and supported Windows/Android versions will be documented here after the current installer files and exact requirements are confirmed.
+Installation steps and supported Windows versions will be documented here after the current installer files and exact requirements are confirmed.
 
 ## Real-world validation
 
