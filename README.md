@@ -23,6 +23,9 @@ The goal is simple: help a repair shop keep customer and motorcycle records, org
 - **Financial reports:** review financial activity with a 12-month chart.
 - **Service reminders:** help track upcoming maintenance and follow-up.
 - **Backups:** support daily data backup.
+- **Language settings:** change the application language to your preferred language.
+- **Regional settings:** configure the financial currency unit and choose the calendar system used to display dates.
+
 
 ## My role
 
@@ -49,6 +52,7 @@ Add clean screenshots to `screenshots/` and update the image links below. Hide c
 | Inventory | ![Parts inventory](screenshots/inventory.png) |
 | Invoice | ![Invoice](screenshots/invoice.png) |
 | Financial reports | ![Financial reports](screenshots/reports.png) |
+| Settings | ![Dinam settings](screenshots/setting.png) |
 
 ## Download
 
